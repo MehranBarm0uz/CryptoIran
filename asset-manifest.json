@@ -1,0 +1,24 @@
+{
+  "files": {
+    "main.css": "/CryptoIran/static/css/main.f56267e9.chunk.css",
+    "main.js": "/CryptoIran/static/js/main.6513001c.chunk.js",
+    "main.js.map": "/CryptoIran/static/js/main.6513001c.chunk.js.map",
+    "runtime-main.js": "/CryptoIran/static/js/runtime-main.7d835c47.js",
+    "runtime-main.js.map": "/CryptoIran/static/js/runtime-main.7d835c47.js.map",
+    "static/css/2.e2dfb3a2.chunk.css": "/CryptoIran/static/css/2.e2dfb3a2.chunk.css",
+    "static/js/2.09b15d18.chunk.js": "/CryptoIran/static/js/2.09b15d18.chunk.js",
+    "static/js/2.09b15d18.chunk.js.map": "/CryptoIran/static/js/2.09b15d18.chunk.js.map",
+    "index.html": "/CryptoIran/index.html",
+    "static/css/2.e2dfb3a2.chunk.css.map": "/CryptoIran/static/css/2.e2dfb3a2.chunk.css.map",
+    "static/css/main.f56267e9.chunk.css.map": "/CryptoIran/static/css/main.f56267e9.chunk.css.map",
+    "static/js/2.09b15d18.chunk.js.LICENSE.txt": "/CryptoIran/static/js/2.09b15d18.chunk.js.LICENSE.txt",
+    "static/media/logo.f818c2f3.png": "/CryptoIran/static/media/logo.f818c2f3.png"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.7d835c47.js",
+    "static/css/2.e2dfb3a2.chunk.css",
+    "static/js/2.09b15d18.chunk.js",
+    "static/css/main.f56267e9.chunk.css",
+    "static/js/main.6513001c.chunk.js"
+  ]
+}
